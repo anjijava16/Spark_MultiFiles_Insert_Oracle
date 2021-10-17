@@ -1,3 +1,6 @@
+# Reference Link:
+1. https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8/18.3.0.0
+
 # POM.xml:
 
 <!-- https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8 -->
