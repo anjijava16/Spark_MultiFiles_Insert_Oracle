@@ -1,5 +1,6 @@
 # Spark_MultiFiles_Insert_Oracle
-In this project Multiple files insert into single Oracle table every time the source file will be change but the target oracle should be same
+**. In this project Multiple files insert into single Oracle table. 
+**. Every time the source data (files or hive source) will be change but the target should be only one oracle table.
 
 # Technologies
 1. Apache Spark
